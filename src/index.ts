@@ -1,2 +1,1 @@
-export default 'Hello world'
-import './style.css'
+export const message = 'Hello world!'
